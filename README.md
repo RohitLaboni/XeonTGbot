@@ -9,12 +9,12 @@
 
 <p>
   <a href="https://github.com/SABIR7718/XeonTGbot/stargazers">
-    <img src="https://img.shields.io/github/stars/SABIR7718/XeonTGbot?style=for-the-badge&color=ff4444">
+    <img src="https://img.sanishtech.com/u/2221c78fe52859258df1f3009c5958e1.png">
   </a>
-  <a href="https://github.com/SABIR7718/XeonTGbot/forks">
-    <img src="https://img.shields.io/github/forks/SABIR7718/XeonTGbot?style=for-the-badge&color=ff4444">
+  <a href="https://github.com/RohitLaboni/XeonTGbot/forks">
+    <img src="https://img.sanishtech.com/u/2221c78fe52859258df1f3009c5958e1.png">
   </a>
-  <a href="https://t.me/freexbugprem_bot">
+  <a href="http://t.me/x_miku_bug_bot">
     <img src="https://img.shields.io/badge/Live_Bot-@freexbugprem__bot-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://sabir7718.is-a.dev/photos/Loves.jpg" width="60%" alt="XeonTGbot Menu Preview"/><br>
+  <img src="https://img.sanishtech.com/u/2221c78fe52859258df1f3009c5958e1.png" width="60%" alt="XeonTGbot Menu Preview"/><br>
   <small><i>Xeon Bug Bot</i></small>
 </p>
 
@@ -110,10 +110,10 @@ Your support helps keep the project alive and improved.
 
 ## 👨‍💻 Developer
 
-Created with ❤️ by **SABIR7718**
+Created with ❤️ by **x-Miku**
 
 <p align="center">
-  <a href="https://github.com/SABIR7718">
+  <a href="https://github.com/RohitLaboni">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
 </p>

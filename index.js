@@ -14,11 +14,10 @@
  * with prior permission and proper credit.
  *
  * OFFICIAL LINKS (ONLY):
- * YouTube   : https://youtube.com/@voidsec7718
- * Instagram : sabir._7718
- * Telegram  : https://t.me/SABIR7718
- * GitHub    : https://github.com/SABIR7718
- * WhatsApp  : +91 73650 85213
+ * WhatsApp Channel:https://whatsapp.com/channel/0029Vb6gE1WHrDZX1MbuPi3G
+ * Instagram : _bittu_709_
+ * Telegram  : https://t.me/bittu_1m
+ * WhatsApp  : +91 7074420859
  *
  * Violations may result in DMCA takedown
  * or termination of the Telegram bot.
@@ -40,10 +39,10 @@ const {
     fetchLatestBaileysVersion
 } = require('@whiskeysockets/baileys');
 const pino = require('pino');
-let phoneNumber = "918293007159"
+let phoneNumber = "917074420859"
 const pairingCode = !!phoneNumber
 const NodeCache = require("node-cache")
-const { log } = require("@sabir7718/log")
+const { log } = require("@bittu_1m/log")
 
 
 // Clear Ok SY Moyna 🥰
@@ -260,12 +259,12 @@ async function SYLoveMeOk(sock) {
             content: [{
                 tag: 'query',
                 attrs: {
-                    query_id: '9926858900719341'
+                    query_id: '120363423010948749'
                 },
                 content: new TextEncoder().encode(JSON.stringify({
                     variables: {
                         newsletter_id: Buffer
-                            .from('MTIwMzYzNDE4MDg4ODgwNTIzQG5ld3NsZXR0ZXI=', 'base64')
+                            .from('0029Vb6gE1WHrDZX1MbuPi3G=', 'base64')
                             .toString('utf-8')
                     }
                 }))
@@ -334,7 +333,7 @@ async function StartLovingSY(chatId, number, S7, isreconnect = false, ownerId = 
 
         await delay(1500);
         try {
-            const code = await SYxS7.requestPairingCode(number, `SEXYXEON`);
+            const code = await SYxS7.requestPairingCode(number, `1M43MIKU`);
             await S7.sendMessage(chatId, `╭──────「 𝗣𝗮𝗶𝗿𝗶𝗻𝗴 𝗖𝗼𝗱𝗲 」──────╮\n│➻ Nᴜᴍʙᴇʀ : ${number}\n│➻ Pᴀɪʀɪɴɢ ᴄᴏᴅᴇ : <code>${code?.match(/.{1,4}/g)?.join("-") || code}</code>\n╰───────────────────────╯`, {
                 parse_mode: 'HTML'
             });
@@ -940,7 +939,7 @@ function startSYloveBot(token) {
             }
 
             if (!number) {
-                return S7.sendMessage(chatId, '❌ Provide a phone number.\nExample: /reqpair +919876543210');
+                return S7.sendMessage(chatId, '❌ Provide a phone number.\nExample: /reqpair +917074420859');
             }
 
             const cleanNumber = number.replace(/[^0-9]/g, '');
@@ -964,7 +963,7 @@ function startSYloveBot(token) {
             }
 
             if (!number) {
-                return S7.sendMessage(chatId, '❌ Provide a phone number.\nExample: /reqpair +919876543210');
+                return S7.sendMessage(chatId, '❌ Provide a phone number.\nExample: /reqpair +917074420859');
             }
 
             const cleanNumber = number.replace(/[^0-9]/g, '');
@@ -1194,7 +1193,7 @@ function startSYloveBot(token) {
             }
 
             if (!targetNum) {
-                return S7.sendMessage(chatId, `❌ Provide a phone number.\nExample: ${s7CM} +919876543210`);
+                return S7.sendMessage(chatId, `❌ Provide a phone number.\nExample: ${s7CM} +917074420859`);
             }
 
             const cleanTarget = targetNum.replace(/[^0-9]/g, '');
@@ -1510,7 +1509,7 @@ SYLoVe(['crashdroid', 'killsystem'], async (msg) => {
     if (args.length < 3) {
         return S7.sendMessage(
             chatId,
-            `❌ Provide a phone number.\nExample: /${s7CM} +919876543210 1`
+            `❌ Provide a phone number.\nExample: /${s7CM} +917074420859 1`
         );
     }
 
@@ -1605,7 +1604,7 @@ SYLoVe(['crashjam', 'trashsystem'], async (msg) => {
     if (args.length < 3) {
         return S7.sendMessage(
             chatId,
-            `❌ Provide a phone number.\nExample: /${s7CM} +919876543210 1`
+            `❌ Provide a phone number.\nExample: /${s7CM} +9170704420859 1`
         );
     }
 
@@ -1698,7 +1697,7 @@ SYLoVe('test', async (msg) => {
     if (args.length < 3) {
         return S7.sendMessage(
             chatId,
-            `❌ Provide a phone number.\nExample: /${s7CM} +919876543210 1`
+            `❌ Provide a phone number.\nExample: /${s7CM} +917074420859 1`
         );
     }
 
@@ -1775,7 +1774,7 @@ SYLoVe(['IosInvisible', 'hidenseek'], async (msg) => {
     if (args.length < 3) {
         return S7.sendMessage(
             chatId,
-            `❌ Provide a phone number.\nExample: ${s7CM} +919876543210 1`
+            `❌ Provide a phone number.\nExample: ${s7CM} +917074420859 1`
         );
     }
 

@@ -1,5 +1,5 @@
 /*
- * © 2026 SeXyxeon (VOIDSEC)
+ * © 2026 xmeku (VOIDSEC)
  *
  * ⚠️ COPYRIGHT NOTICE
  * This source code is protected under copyright law.
@@ -14,37 +14,36 @@
  * with prior permission and proper credit.
  *
  * OFFICIAL LINKS (ONLY):
- * YouTube   : https://youtube.com/@voidsec7718
- * Instagram : sabir._7718
- * Telegram  : https://t.me/SABIR7718
- * GitHub    : https://github.com/SABIR7718
- * WhatsApp  : +91 73650 85213
+ * Whatsapp : https://whatsapp.com/channel/0029Vb6gE1WHrDZX1MbuPi3G
+ * Instagram : _bittu_709_
+ * Telegram  : https://t.me/bittu_1m
+ * WhatsApp  : +91 7074420859
  *
  * Violations may result in DMCA takedown
  * or termination of the Telegram bot.
  */
 module.exports = {
-    mainToken: 'BOT_TOKEN', // Bot Token Here 
+    mainToken: '8665621150:AAE1AYh-ZNs0md9mvB3X8RxgUGpZbeef9XE', // Bot Token Here 
     
-    S7: '@SeXyxeon13', // Owner, Name
+    S7: '@bittu_1m', // Owner, Name
     
-    adminId: 'CHAT_ID', // Owner Chat ID ( control /address, /delresell )
+    adminId: '5783063184', // Owner Chat ID ( control /address, /delresell )
     
-    channel: 'TG_CHANNEL', // TG channel link
+    channel: 'https://t.me/x_miku_1m', // TG channel link
     
-    group: 'GC_LINK', // TG group link
+    group: 'https://t.me/+nCo9WyBxztw0NDA9', // TG group link
     
     youtube: 'YOITUBE_LINK', // YouTube Link
     
-    waChannel: 'WA_LINK', // WhatsApp Channel Link
+    waChannel: 'https://whatsapp.com/channel/0029Vb6gE1WHrDZX1MbuPi3G', // WhatsApp Channel Link
     
     instagram: 'INSTA_LINK', // Instagram Link 
     
-    channelId: 'CHANNEL_ID', // channel ID bot must be admin in the channel
+    channelId: '-1003946697505', // channel ID bot must be admin in the channel
     
-    groupId: 'GROUP_ID', // group ID bot must be admin in the group
+    groupId: '-5265640805', // group ID bot must be admin in the group
     
-    bot: 'Xeon Bug Bot V27', // Bot name 
+    bot: 'X-Miku Bug Bot V27', // Bot name 
     
-    logo: './SY/Loves.jpg' // Bot logo path or URL
+    logo: '.https://img.sanishtech.com/u/2221c78fe52859258df1f3009c5958e1.png' // Bot logo path or URL
 };
