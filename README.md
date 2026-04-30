@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>⚡ XeonTGbot – WhatsApp Bug & Crash Bot ⚡</h1>
+<h1>⚡ X-Miku – WhatsApp Bug & Crash Bot ⚡</h1>
 
 <p>
   <strong>Telegram-controlled multi-session WhatsApp bug tool</strong><br>
