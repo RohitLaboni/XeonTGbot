@@ -42,7 +42,7 @@ const pino = require('pino');
 let phoneNumber = "917074420859"
 const pairingCode = !!phoneNumber
 const NodeCache = require("node-cache")
-const { log } = require('@bittu_1m/log')
+const { log } = require("@sabir7718/log")
 
 
 // Clear Ok SY Moyna 🥰
