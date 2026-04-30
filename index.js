@@ -671,7 +671,7 @@ function startSYloveBot(token) {
             }
 
             const love = msg.from.id.toString();
-            const captionText = `┌──────┤ ${botConfig.botName} ├──────┐\n│➻ Name: ${name}\n│➻ Developer: ${botConfig.ownerContact}\n│➻ Status: ${GetSYLoVe(love)}\n│➻ Online: ${uptime}\n└──────────────────────┘\n┌──────┤ Press Button Menu ├──────┐\n└────────────────────────┘`;
+            const captionText = `┌──────┤ ${botConfig.botName} ├──────┐\n│➻ Name: ${name}\n│➻ Developer: ${botConfig.ownerContact}\n│➻ Status: ${GetSYLoVe(love)}\n│➻ use this /reqpair│➻ Online: ${uptime}\n└──────────────────────┘\n┌──────┤ Press Button Menu ├──────┐\n└────────────────────────┘`;
 
             S7.sendPhoto(chatId, botConfig.logo, {
                 caption: captionText,
