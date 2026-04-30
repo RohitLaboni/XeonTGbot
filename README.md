@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/SABIR7718/XeonTGbot/stargazers">
+  <a href="https://github.com/RohitLaboni/XeonTGbot/stargazers">
     <img src="https://img.sanishtech.com/u/2221c78fe52859258df1f3009c5958e1.png">
   </a>
   <a href="https://github.com/RohitLaboni/XeonTGbot/forks">
